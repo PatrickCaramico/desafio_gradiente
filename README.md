@@ -6,7 +6,7 @@ O desafio "Post-Its" foi desenvolvido através do curso Serliv. O intuito do cur
 
 <img align="center" src="Images Post-Its/Projeto Post-Its.png" width="900px"/>
 
-# Trecho do Código
+# Trecho do Código 💻
 
 Trecho do código em HTML e CSS.
 
@@ -22,7 +22,7 @@ Em CSS;
 
 #
 
-# Link Projeto
+# Link Projeto 📲
 
 Aqui está o link para acessar o projeto; 
 
