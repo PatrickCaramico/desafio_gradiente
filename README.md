@@ -1,36 +1,32 @@
 # Post-Its 📒
 
-O desafio "Post-Its" foi desenvolvido através do curso Serliv. O intuito do curso era desenvolver um projeto utilizando gradiente em HTML e CSS com o formato de Post-Its.
+The "Post-Its" challenge was developed through the Serliv course. The purpose of the course was to create a project using gradients in HTML and CSS with the format of Post-Its.
 
-# Imagens do Projeto 🗒
+# Project Images 🗒
 
 <img align="center" src="Images Post-Its/Projeto Post-Its.png" width="900px"/>
 
-# Trecho do Código 💻
 
-Trecho do código em HTML e CSS.
+# Code Snippet 💻
+
+Snippet of code in HTML and CSS.
 
 #
-Em HTML;
+In HTML;
 <img align="center" src="Images Post-Its/Trecho HTML.png" width="900px"/>
 
+
 #
 
 #
-Em CSS;
+In CSS;
 <img align="center" src="Images Post-Its/Trecho CSS.png" width="900px"/>
 
+
 #
 
-# Link Projeto 📲
+# Project Link 📲
 
-Aqui está o link para acessar o projeto; 
+Here is the link to access the project:
 
 https://patrickcaramico.github.io/desafio_gradiente/
-
-
-
-
-
-
-
